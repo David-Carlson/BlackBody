@@ -1,5 +1,5 @@
 # BlackBody Radiation Simulator
-I simulated blackbody radiation, which is light (and other spectrums) given off an object due to heat. [Wikipedia](https://en.wikipedia.org/wiki/Black-body_radiation) elaborates well on this. 
+I simulated blackbody radiation, which is light (and other spectrums) given off an object due to heat. [Wikipedia](https://en.wikipedia.org/wiki/Black-body_radiation) elaborates well on this. I created this project with a friend of mine, Sean Ceallaign. 
 I also created an offshoot of this in ProcessingJS.  [Check it out, it's interactive!](khan)  
 
 For a given heat, I can calculate the power of any particular wavelength of electro-magnetic radiation. 
@@ -14,18 +14,10 @@ Show what the library does as concisely as possible, developers should be able t
 
 I'm curious about light and graphics. I had previously created an [Atmospheric Scattering Simulator](https://github.com/ajzaff/sky-simulator), and wanted to learn more about applications of physics and how wavelength corresponds to color. 
 
-## Installation
-
-Provide code examples and explanations of how to get the project.
 
 ## API Reference
 
 I used the [Sunflow Render Engine](http://sunflow.sourceforge.net/docs/javadoc/) to help draw images as well as handle parts of the spectrum conversion.
-
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
 
 ## License
 
