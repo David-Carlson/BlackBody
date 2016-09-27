@@ -3,12 +3,8 @@ I simulated blackbody radiation, which is light (and other spectrums) given off 
 I also created an offshoot of this in ProcessingJS.  [Check it out, it's interactive!](khan)  
 
 For a given heat, I can calculate the power of any particular wavelength of electro-magnetic radiation. 
-This can be done through Plank's law of black-body radiation:
-![Wavelength vs power graph](powerGraph)  
+This can be done through Plank's law of black-body radiation. This creatures a spectrum graph that corresponds with a color. Finding the color in RGB terms involves converting it into the CIE X,Y,Z standard of color, which involves integration. Then I convert into RGB using linear algebra. 
 
-## Synopsis
-
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 ## Code Example
 
@@ -16,7 +12,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+I'm curious about light and graphics. I had previously created an [Atmospheric Scattering Simulator](https://github.com/ajzaff/sky-simulator), and wanted to learn more about applications of physics and how wavelength corresponds to color. 
 
 ## Installation
 
