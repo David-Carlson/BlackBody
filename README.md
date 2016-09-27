@@ -4,7 +4,7 @@ I also created an offshoot of this in ProcessingJS.  [Check it out, it's interac
 
 For a given heat, I can calculate the power of any particular wavelength of electro-magnetic radiation. 
 This can be done through Plank's law of black-body radiation:
-![Wavelength vs power graph](http://hyperphysics.phy-astr.gsu.edu/hbase/imgmod/bbrc1b.gif)  
+![Wavelength vs power graph](powerGraph)  
 
 ## Synopsis
 
@@ -38,3 +38,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 [wavelength graph]: images/wavelengthGraph.svg
 [plank]: images/planck.svg
 [khan]: https://www.khanacademy.org/computer-programming/black-body-radiation-simulator/4530109545316352 "ProcessingJS version of program"
+[powerGraph] images/powerGraph.gif
