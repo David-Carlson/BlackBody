@@ -3,9 +3,9 @@ I simulated blackbody radiation, which is light (and other spectrums) given off 
 I also created an offshoot of this in ProcessingJS.  [Check it out, it's interactive!](khan)  
 
 For a given heat, I can calculate the power of any particular wavelength of electro-magnetic radiation. 
-![wavelength vs power graph](wavelength graph)
 This can be done through Plank's law of black-body radiation:
-![Planck's law](planck)
+![Wavelength vs power graph](http://hyperphysics.phy-astr.gsu.edu/hbase/imgmod/bbrc1b.gif)  
+
 ## Synopsis
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
