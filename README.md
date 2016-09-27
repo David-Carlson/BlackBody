@@ -5,11 +5,6 @@ I also created an offshoot of this in ProcessingJS.  [Check it out, it's interac
 For a given heat, I can calculate the power of any particular wavelength of electro-magnetic radiation. 
 This can be done through Plank's law of black-body radiation. This creatures a spectrum graph that corresponds with a color. Finding the color in RGB terms involves converting it into the CIE X,Y,Z standard of color, which involves integration. Then I convert into RGB using linear algebra. 
 
-
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
 ## Motivation
 
 I'm curious about light and graphics. I had previously created an [Atmospheric Scattering Simulator](https://github.com/ajzaff/sky-simulator), and wanted to learn more about applications of physics and how wavelength corresponds to color. 
