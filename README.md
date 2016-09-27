@@ -35,6 +35,6 @@ Let people know how they can dive into the project, include important links to t
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-[wavelength graph]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Black_body.svg/600px-Black_body.svg.png
-[plank]: https://wikimedia.org/api/rest_v1/media/math/render/svg/06f4999b96ea8710b4ebb1a2d1cc2b42391aed98
+[wavelength graph]: images/wavelengthGraph.svg
+[plank]: images/planck.svg
 [khan]: https://www.khanacademy.org/computer-programming/black-body-radiation-simulator/4530109545316352 "ProcessingJS version of program"
