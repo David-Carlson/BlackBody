@@ -1,8 +1,9 @@
 # BlackBody Radiatino Simulator
 I simulated blackbody radiation, which is light (and other spectrums) given off an object due to heat. [Wikipedia](https://en.wikipedia.org/wiki/Black-body_radiation) elaborates well on this. 
 For a given heat, I can calculate the power of any particular wavelength of electro-magnetic radiation. 
-~[wavelength vs power graph](wavelength graph)
-
+![wavelength vs power graph](wavelength graph)
+This can be done through Plank's law of black-body radiation:
+![Planck's law](planck)
 ## Synopsis
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
@@ -33,3 +34,5 @@ Let people know how they can dive into the project, include important links to t
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 [wavelength graph]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Black_body.svg/600px-Black_body.svg.png
+[plank]: https://wikimedia.org/api/rest_v1/media/math/render/svg/06f4999b96ea8710b4ebb1a2d1cc2b42391aed98
+[khan]: https://www.khanacademy.org/computer-programming/black-body-radiation-simulator/4530109545316352 "ProcessingJS version of program"
