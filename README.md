@@ -1,6 +1,6 @@
 # BlackBody Radiation Simulator
 I simulated blackbody radiation, which is light (and other spectrums) given off an object due to heat. [Wikipedia](https://en.wikipedia.org/wiki/Black-body_radiation) elaborates well on this. 
-I also created an offshoot of this in ProcessingJS. Check it out, it's interactive! [Khan program](khan)
+I also created an offshoot of this in ProcessingJS.  [Check it out, it's interactive!](khan)
 For a given heat, I can calculate the power of any particular wavelength of electro-magnetic radiation. 
 ![wavelength vs power graph](wavelength graph)
 This can be done through Plank's law of black-body radiation:
