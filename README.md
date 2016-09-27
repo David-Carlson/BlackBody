@@ -38,4 +38,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 [wavelength graph]: /images/wavelengthGraph.svg
 [plank]: /images/planck.svg
 [khan]: https://www.khanacademy.org/computer-programming/black-body-radiation-simulator/4530109545316352 "ProcessingJS version of program"
-[powerGraph]: /images/powerGraph.gif
+[powerGraph]: https://qph.ec.quoracdn.net/main-qimg-396f093ef6c69e0110dd9b149eaa9b6c?convert_to_webp=true
